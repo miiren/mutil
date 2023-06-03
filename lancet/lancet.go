@@ -1,9 +1,9 @@
 package lancet
 
 import (
-	"github.com/duke-git/lancet/convertor"
-	"github.com/duke-git/lancet/cryptor"
-	"github.com/duke-git/lancet/datetime"
+	"github.com/duke-git/lancet/v2/convertor"
+	"github.com/duke-git/lancet/v2/cryptor"
+	"github.com/duke-git/lancet/v2/datetime"
 	"time"
 )
 
